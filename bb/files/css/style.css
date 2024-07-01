@@ -1,8 +1,8 @@
 @font-face {
 	font-family: Battambang-Bold;
-	src: url(../../../../wowbook/fonts/Battambang-Bold.ttf);
+	src: url(wowbook/fonts/Battambang-Bold.ttf);
 	font-family: Battambang-Light;
-	src: url(../../../../wowbook/fonts/Battambang-Light.ttf);
+	src: url(wowbook/fonts/Battambang-Light.ttf);
   }
 
 body{
